@@ -33,7 +33,8 @@ import org.springframework.jdbc.datasource.init.ResourceDatabasePopulator;
  *
  */
 @Configuration
-@PropertySource("classpath:/batch-hsql.properties")
+//@PropertySource("classpath:/batch-hsql.properties")
+@PropertySource("classpath:/batch-mysql.properties")
 public class DataSourceConfiguration {
 	
 	@Autowired
