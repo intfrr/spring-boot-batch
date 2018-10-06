@@ -36,7 +36,7 @@ import edu.balu.self.listener.JobCompletionNotificationListener;
 @Configuration
 @EnableBatchProcessing
 public class BatchConfiguration {
-	private static final Integer CHUNK_SIZE = 1000;
+	private static final Integer CHUNK_SIZE = 100;
 	
 	@Autowired
 	private JobBuilderFactory jobBuilderFactory;
