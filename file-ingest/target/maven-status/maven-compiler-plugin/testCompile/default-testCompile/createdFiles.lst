@@ -1,0 +1,4 @@
+org\springframework\ingest\processor\PersonItemProcessorTests.class
+org\springframework\ingest\config\BatchConfigurationTests.class
+org\springframework\ingest\config\BatchConfigurationTests$DataSourceConfiguration.class
+org\springframework\ingest\mapper\fieldset\PersonFieldSetMapperTests.class

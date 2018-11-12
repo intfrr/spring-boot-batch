@@ -1,0 +1,6 @@
+org\springframework\ingest\domain\Person.class
+org\springframework\ingest\Application.class
+org\springframework\ingest\config\BatchConfiguration.class
+org\springframework\ingest\processor\PersonItemProcessor.class
+org\springframework\ingest\config\DataSourceConfiguration.class
+org\springframework\ingest\mapper\fieldset\PersonFieldSetMapper.class
